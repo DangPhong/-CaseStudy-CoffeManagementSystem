@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/QLCafe.API/.vs/QLCafe.API/config
+/QLCafe.API/.vs/QLCafe.API/DesignTimeBuild
+/QLCafe.API/.vs/QLCafe.API/v16/Server/sqlite3
+/QLCafe.API/.vs/QLCafe.API/v16/.suo

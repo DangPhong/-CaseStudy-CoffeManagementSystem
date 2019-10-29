@@ -1,0 +1,45 @@
+﻿@model QLCafe.WEB.Models.TableCoffees.TableCoffeesAddToBook
+
+@{
+    ViewData["Title"] = "TableCoffeesAddToBook";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 style="color:red">Đặt Bàn</h1>
+
+<hr />
+<div class="row" style="color:darkblue">
+    <div class="col-md-4">
+        <form asp-action="TableCoffeesAddToBook">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                
+                <input hidden asp-for="TableID" class="form-control" />
+                
+            </div>
+            <div class="form-group">
+                <label asp-for="DateTimeCheckIn" class="control-label"></label>
+                <input asp-for="DateTimeCheckIn" class="form-control" />
+                <span asp-validation-for="DateTimeCheckIn" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerName" class="control-label"></label>
+                <input asp-for="CustomerName" class="form-control" />
+                <span asp-validation-for="CustomerName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CustomerPhone" class="control-label"></label>
+                <input asp-for="CustomerPhone" class="form-control" />
+                <span asp-validation-for="CustomerPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Đặt Bàn" class="btn btn-primary btn-sm" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a class="btn btn-primary btn-sm" asp-action="Index">Back to List</a>
+</div>
+

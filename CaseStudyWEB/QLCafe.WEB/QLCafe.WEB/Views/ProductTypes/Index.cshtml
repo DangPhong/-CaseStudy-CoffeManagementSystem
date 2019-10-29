@@ -1,0 +1,41 @@
+﻿@model IEnumerable<QLCafe.WEB.Models.ProductTypes.ProductTypesView>
+
+@{
+    ViewData["Title"] = "ProductTypes";
+}
+
+    <h1 style="color:red">Danh Sách Loại Món</h1>
+
+<p>
+    <a class="btn btn-primary btn-sm" asp-controller="ProductTypes" asp-action="Create">Thêm Mới Loại Món</a>
+</p>
+<table class="table table-striped table-bordered table-hover" style="color:darkblue">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ID)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.ID }, new { @class="btn btn-primary btn-sm"}) 
+                @Html.ActionLink("Details", "Details", new { id = item.ID }, new { @class = "btn btn-success btn-sm" }) 
+                @Html.ActionLink("Delete", "Delete", new { id = item.ID }, new { @class="btn btn-warning btn-sm"})
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

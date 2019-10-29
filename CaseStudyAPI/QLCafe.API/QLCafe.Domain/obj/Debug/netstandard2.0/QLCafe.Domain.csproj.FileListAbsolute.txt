@@ -1,0 +1,17 @@
+D:\CaseStudyAPI\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.deps.json
+D:\CaseStudyAPI\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.dll
+D:\CaseStudyAPI\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.pdb
+D:\CaseStudyAPI\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.csprojAssemblyReference.cache
+D:\CaseStudyAPI\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.csproj.CoreCompileInputs.cache
+D:\CaseStudyAPI\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfoInputs.cache
+D:\CaseStudyAPI\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfo.cs
+D:\CaseStudyAPI\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.dll
+D:\CaseStudyAPI\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.pdb
+C:\CaseStudy7\CaseStudyAPI\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.deps.json
+C:\CaseStudy7\CaseStudyAPI\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.dll
+C:\CaseStudy7\CaseStudyAPI\QLCafe.API\QLCafe.Domain\bin\Debug\netstandard2.0\QLCafe.Domain.pdb
+C:\CaseStudy7\CaseStudyAPI\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.csprojAssemblyReference.cache
+C:\CaseStudy7\CaseStudyAPI\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfoInputs.cache
+C:\CaseStudy7\CaseStudyAPI\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.AssemblyInfo.cs
+C:\CaseStudy7\CaseStudyAPI\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.dll
+C:\CaseStudy7\CaseStudyAPI\QLCafe.API\QLCafe.Domain\obj\Debug\netstandard2.0\QLCafe.Domain.pdb

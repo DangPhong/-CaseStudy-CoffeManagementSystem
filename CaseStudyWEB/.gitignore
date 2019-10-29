@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/QLCafe.WEB/.vs/QLCafe.WEB/config
+/QLCafe.WEB/.vs/QLCafe.WEB/DesignTimeBuild
+/QLCafe.WEB/.vs/QLCafe.WEB/v16
+/QLCafe.WEB/QLCafe.WEB/bin/Debug/netcoreapp2.2/Properties
+/QLCafe.WEB/QLCafe.WEB/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/QLCafe.WEB/QLCafe.WEB/bin/Debug/netcoreapp2.2/appsettings.json
+/QLCafe.WEB/QLCafe.WEB/bin/Debug/netcoreapp2.2/QLCafe.WEB.deps.json
+/QLCafe.WEB/QLCafe.WEB/bin/Debug/netcoreapp2.2/QLCafe.WEB.dll
+/QLCafe.WEB/QLCafe.WEB/bin/Debug/netcoreapp2.2/QLCafe.WEB.pdb
+/QLCafe.WEB/QLCafe.WEB/bin/Debug/netcoreapp2.2/QLCafe.WEB.runtimeconfig.dev.json
+/QLCafe.WEB/QLCafe.WEB/bin/Debug/netcoreapp2.2/QLCafe.WEB.runtimeconfig.json
+/QLCafe.WEB/QLCafe.WEB/bin/Debug/netcoreapp2.2/QLCafe.WEB.Views.dll
+/QLCafe.WEB/QLCafe.WEB/bin/Debug/netcoreapp2.2/QLCafe.WEB.Views.pdb
